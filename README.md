@@ -1,3 +1,3 @@
 # Power-BI-reports
-This is some of the demo datasets i have worked on power bi.
-These have my sample templates that I made in power bi.
+This repository contains various Power BI reports using different datasets and their requirements.
+Each dataset has a dedicated report done in power b integrating various charts and interactive visualizations.
